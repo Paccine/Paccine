@@ -42,7 +42,7 @@ Currently, I work on products such as:
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,tailwind,react,nextjs,vue,materialui,androidstudio,kotlin,swift,nodejs,nestjs,express,python,go,rust,java,cs,dotnet,unity,postgres,mysql,mongodb,firebase,redis,prisma,docker,kubernetes,linux,nginx,aws,gcp,azure,vercel,git,github,githubactions,vscode"
+    src="https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,tailwind,react,nextjs,vue,materialui,androidstudio,kotlin,swift,nodejs,nestjs,express,python,go,cs,dotnet,unity,postgres,mysql,mongodb,firebase,redis,prisma,docker,kubernetes,linux,nginx,aws,gcp,azure,vercel,git,github,githubactions,vscode"
     alt="Tech Stack Icons"
   />
 </div>
@@ -57,8 +57,6 @@ Currently, I work on products such as:
 ![Express](https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Systems-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Backend-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-API-512BD4?style=for-the-badge&logo=.net&logoColor=white)
