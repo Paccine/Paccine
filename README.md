@@ -296,7 +296,7 @@ Heyoo is a multi-tenant SaaS that brings **WhatsApp, Instagram, Telegram, TikTok
 
 ### What MU Tales is
 
-- ⚔️ **Legendary classes** — knights, wizards, elves and their evolutions, with energy wings and iconic sets.
+- ⚔️ **Legendary classes** — Dark Knight, Fairy Elf, the wizard line and the **Magic Gladiator**, each with its evolutions, energy wings and iconic sets.
 - 🏰 **PvE & PvP** — hunting, chapter-based quests and guild **Castle Siege**.
 - 💱 **Player economy** — trading plus an item and character marketplace.
 - 🌍 **Cross-platform** — one world across PC and mobile, with a coherent HUD on every screen.
@@ -310,12 +310,19 @@ Heyoo is a multi-tenant SaaS that brings **WhatsApp, Instagram, Telegram, TikTok
 
 <div align="center">
 
-<img src="./assets/mutales/03-combate-lorencia.jpg" alt="MU Tales — combat in Lorencia" width="100%" />
+<img src="./assets/mutales/01-magic-gladiator.jpg" alt="MU Tales — Magic Gladiator character creation" width="100%" />
 
-<img src="./assets/mutales/02-criacao-personagem.jpg" alt="MU Tales — character creation" width="49%" />
-<img src="./assets/mutales/01-selecao-personagem.jpg" alt="MU Tales — character selection" width="49%" />
+<sub><b>Magic Gladiator</b> — the newest class: sword and arcane magic at the same time</sub>
 
-<sub>Real gameplay running on iPhone (development build, August 2026)</sub>
+<img src="./assets/mutales/02-lorencia-menu.jpg" alt="MU Tales — new HUD with the full menu open in Lorencia" width="49%" />
+<img src="./assets/mutales/03-lorencia-combate.jpg" alt="MU Tales — combat HUD in Lorencia" width="49%" />
+
+<sub>The new mobile HUD in Lorencia — full menu and combat layout</sub>
+
+<img src="./assets/mutales/04-dark-knight.jpg" alt="MU Tales — Dark Knight character creation" width="49%" />
+<img src="./assets/mutales/05-fairy-elf.jpg" alt="MU Tales — Fairy Elf character creation" width="49%" />
+
+<sub>Dark Knight · Fairy Elf — screenshots from the latest build (iOS, September 2026)</sub>
 
 </div>
 
