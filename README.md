@@ -30,7 +30,8 @@ I have experience creating real-world products for companies, clinics and operat
 Currently, I work on products such as:
 
 - **GestoDentis** — Dental clinic management SaaS.
-- **OdontoConnect** — Chrome extension integrated with WhatsApp Web for dental clinics.
+- **Heyoo** — Omnichannel inbox SaaS with AI that answers, sells and gets paid.
+- **MU Tales** — Dark fantasy MMORPG built with Unity and a C++ server.
 - **P4 Studios** — Software engineering, apps, SaaS platforms and digital solutions.
 - **Caesar** — Financial management SaaS concept with WhatsApp integration.
 - **Unity3D Games** — Participated in mobile and desktop game projects with 1M+ downloads combined.
@@ -174,37 +175,149 @@ GestoDentis is also available as **native mobile apps** on both **Google Play St
 
 ---
 
-## 💬 Featured Product: OdontoConnect
+## 💬 Featured Product: Heyoo
 
 <div align="center">
-  <img
-    src="./assets/logo-odontoconnect.png"
-    alt="OdontoConnect Logo"
-    width="140"
-  />
-  <h3>OdontoConnect</h3>
-  <p>
-    Chrome extension for WhatsApp Web integrated with GestoDentis.
-  </p>
-  <a href="https://chromewebstore.google.com/detail/odontoconnect/nfjlbemkghcaidaocppfaeaipegobfai?hl=pt-BR&utm_source=ext_sidebar" target="_blank">
+  <a href="https://heyoo.com.br" target="_blank">
     <img
-      src="https://img.shields.io/badge/Chrome_Web_Store-OdontoConnect-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="OdontoConnect Chrome Web Store"
+      src="./assets/heyoo/heyoo-banner.jpg"
+      alt="Heyoo — omnichannel inbox with AI"
+      width="560"
+    />
+  </a>
+  <h3>Heyoo</h3>
+  <p>
+    The conversation hub for businesses that sell — every channel in a single inbox, with AI that answers, sells and gets paid.
+  </p>
+  <a href="https://heyoo.com.br" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Visit_Heyoo-7600FF?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Visit Heyoo"
+    />
+  </a>
+  <a href="https://app.heyoo.com.br" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Web_App-app.heyoo.com.br-BA06FF?style=for-the-badge&logo=react&logoColor=white"
+      alt="Heyoo Web App"
+    />
+  </a>
+  <a href="https://apps.apple.com/br/app/heyoo/id6795676694" target="_blank">
+    <img
+      src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
+      alt="Heyoo on the App Store"
+    />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=br.com.p4.heyoo" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Google_Play-Download-01875F?style=for-the-badge&logo=googleplay&logoColor=white"
+      alt="Heyoo on Google Play"
     />
   </a>
 </div>
 
-### What OdontoConnect does
+### What Heyoo does
 
-OdontoConnect connects WhatsApp Web with GestoDentis, helping dental clinics improve communication, patient support and daily workflow.
+Heyoo is a multi-tenant SaaS that brings **WhatsApp, Instagram, Telegram, TikTok, Messenger and website chat** into one real-time inbox — with AI that understands audio and images, replies by voice, qualifies leads in the CRM, sells from the catalog and charges via PIX.
 
-Main features include:
+- 📥 **Unified inbox** — real-time conversations (Socket.IO) from every channel, groups, comments, tags and quick replies.
+- 🤖 **AI that sells** — native credit-based provider or BYOK (OpenAI, Anthropic, Gemini, DeepSeek), tool-use over catalog, payments and scheduling.
+- 🧩 **Visual Flow Builder** — no-code automations with conditions, HTTP requests, isolated JS (`isolated-vm`) and more.
+- 📞 **AI voice calls** — WhatsApp calls with ElevenLabs voices, human pickup via WebRTC and native ringing (CallKit / ConnectionService).
+- 💰 **Digital wallet & credit management** — native PIX sub-accounts with KYC, transaction PIN, contracts with Price table and automatic collection.
+- 📊 **CRM, campaigns & reports** — multi-funnel Kanban, bulk messaging, PDF/Excel/CSV exports.
+- 🔌 **Public REST API + MCP server** — 1,000+ endpoints, webhooks and embedded login for partners.
+- 🎓 **[Heyoo Academy](https://academy.heyoo.com.br)** — 232 video lessons recorded on the real product, generated from code.
 
-- WhatsApp Web integration.
-- Patient communication support.
-- Appointment and consultation workflow.
-- Faster access to patient information.
-- Better organization for clinic teams.
+<div align="center">
+
+<img src="./assets/heyoo/tela-conversas.jpg" alt="Heyoo — unified inbox" width="180" />
+<img src="./assets/heyoo/tela-conversa.jpg" alt="Heyoo — conversation with AI" width="180" />
+<img src="./assets/heyoo/tela-painel.jpg" alt="Heyoo — dashboard" width="180" />
+<img src="./assets/heyoo/tela-planos.jpg" alt="Heyoo — plans" width="180" />
+
+<sub>Inbox · conversation · dashboard · plans — screenshots from the published app</sub>
+
+</div>
+
+**Stack:**
+
+![Node.js](https://img.shields.io/badge/Node.js_22-Express_·_Socket.IO-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-Vite_·_TS-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Expo](https://img.shields.io/badge/Expo_SDK_54-iOS_·_Android-000020?style=flat-square&logo=expo&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Logs-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## ⚔️ Featured Game: MU Tales
+
+<div align="center">
+  <a href="https://mutales.online" target="_blank">
+    <img
+      src="./assets/mutales/mutales-banner.jpg"
+      alt="MU Tales"
+      width="100%"
+    />
+  </a>
+  <br />
+  <img
+    src="./assets/mutales/mutales-wordmark.png"
+    alt="MU TALES"
+    width="360"
+  />
+  <p>
+    <i>Every journey writes a new legend.</i>
+  </p>
+  <p>
+    A dark fantasy MMORPG that blends the nostalgia of the classic MMORPG era with living chapters, events and stories that keep unfolding.
+  </p>
+  <a href="https://mutales.online" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Site-mutales.online-C9A227?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="mutales.online"
+    />
+  </a>
+  <a href="https://mutales.com.br" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Site_BR-mutales.com.br-8B1E1E?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="mutales.com.br"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/Unity-6.3_LTS-000000?style=for-the-badge&logo=unity&logoColor=white"
+    alt="Unity 6.3 LTS"
+  />
+  <img
+    src="https://img.shields.io/badge/iOS_·_Android_·_macOS-Playable-2E5FB0?style=for-the-badge"
+    alt="Playable on iOS, Android and macOS"
+  />
+</div>
+
+### What MU Tales is
+
+- ⚔️ **Legendary classes** — knights, wizards, elves and their evolutions, with energy wings and iconic sets.
+- 🏰 **PvE & PvP** — hunting, chapter-based quests and guild **Castle Siege**.
+- 💱 **Player economy** — trading plus an item and character marketplace.
+- 🌍 **Cross-platform** — one world across PC and mobile, with a coherent HUD on every screen.
+- 🗣️ **Three languages** — pt-BR, en-US and es-419.
+
+### Under the hood
+
+- 🎮 **Client:** Unity 6.3 LTS, C# IL2CPP + **HybridCLR** hot-update and **xLua (Lua 5.3)** for gameplay logic.
+- 🧭 **In-house native libraries** — navmesh, collision and **A\* + funnel pathfinding**, validated with **8.7M+ differential test cases across 231 maps with zero divergences**; shipped for macOS, iOS and Android (16 KB pages).
+- 🖥️ **Server:** C++ x86-64 — 18 services and a 20-process cluster supervised by a custom daemon, MySQL persistence and a **Docker** runtime.
+
+<div align="center">
+
+<img src="./assets/mutales/03-combate-lorencia.jpg" alt="MU Tales — combat in Lorencia" width="100%" />
+
+<img src="./assets/mutales/02-criacao-personagem.jpg" alt="MU Tales — character creation" width="49%" />
+<img src="./assets/mutales/01-selecao-personagem.jpg" alt="MU Tales — character selection" width="49%" />
+
+<sub>Real gameplay running on iPhone (development build, August 2026)</sub>
+
+</div>
 
 ---
 
@@ -258,6 +371,7 @@ I've also worked on **Unity3D game projects** for mobile and desktop platforms, 
 - 📱 Games published on **Google Play Store** with active player bases.
 - 💻 Desktop releases reaching international audiences.
 - 🛠️ Hands-on experience across the game lifecycle: prototype → production → release → live operations.
+- ⚔️ Currently building **[MU Tales](https://mutales.online)** — a cross-platform MMORPG with a Unity 6 client, C++ server and in-house native libraries.
 
 ---
 
@@ -278,17 +392,35 @@ A complete SaaS platform for dental clinics, focused on organization, productivi
 
 ---
 
-### 💬 OdontoConnect
+### 💬 Heyoo
 
-A Chrome extension integrated with WhatsApp Web and GestoDentis, created to improve communication and workflow inside dental clinics.
+An omnichannel customer service and sales platform — WhatsApp, Instagram, Telegram, TikTok, Messenger and website chat in one inbox, with AI agents, visual flows, CRM, campaigns, AI voice calls and a native PIX wallet. Web app plus iOS and Android apps.
 
 **Stack examples:**
 
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react&logoColor=000)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-Mobile-000020?style=flat-square&logo=expo&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Queues-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-[View on Chrome Web Store](https://chromewebstore.google.com/detail/odontoconnect/nfjlbemkghcaidaocppfaeaipegobfai?hl=pt-BR&utm_source=ext_sidebar)
+[Visit Heyoo](https://heyoo.com.br) · [App Store](https://apps.apple.com/br/app/heyoo/id6795676694) · [Google Play](https://play.google.com/store/apps/details?id=br.com.p4.heyoo)
+
+---
+
+### ⚔️ MU Tales
+
+A dark fantasy MMORPG with a Unity client for iOS, Android, Windows and macOS, a C++ server cluster and in-house native libraries (navmesh, pathfinding, asset I/O and Lua runtime).
+
+**Stack examples:**
+
+![Unity](https://img.shields.io/badge/Unity-6.3_LTS-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-IL2CPP_·_HybridCLR-239120?style=flat-square&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-xLua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Server-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Runtime-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[Visit MU Tales](https://mutales.online) · [mutales.com.br](https://mutales.com.br)
 
 ---
 
@@ -304,7 +436,7 @@ A Chrome extension integrated with WhatsApp Web and GestoDentis, created to impr
 
 </div>
 
-> The bulk of my engineering work happens in **private codebases** for products like **GestoDentis**, **OdontoConnect**, **Caesar** and internal **P4 Studios** systems, plus separate game development projects with Unity3D.
+> The bulk of my engineering work happens in **private codebases** for products like **GestoDentis**, **Heyoo**, **Caesar** and internal **P4 Studios** systems, plus game development projects with Unity3D such as **MU Tales**.
 
 ---
 
